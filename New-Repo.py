@@ -8,3 +8,6 @@ class human(self, hair_color):
 
 def no_block_for_you():
      pass
+
+a = "hello"
+print(len(a))
